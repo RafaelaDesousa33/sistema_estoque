@@ -2,6 +2,8 @@
 
 Sistema simples de controle de estoque desenvolvido com HTML, CSS e JavaScript.
 
+<img src="projeto_gerenciamento_estoque_foto1.png" alt="imagem projeto">
+
 ## Funcionalidades
 
 - Cadastro de produtos
